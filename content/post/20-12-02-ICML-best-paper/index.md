@@ -1,6 +1,6 @@
 ---
-title: SLU IO Studetns with Best Paper Award at SIOP 2020
-date: 2021-12-02
+title: SLU IO Students with Best Paper Award at SIOP 2020
+date: 2020-12-02
 image:
   focal_point: "top"
 ---
