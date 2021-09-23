@@ -14,7 +14,7 @@ role: Grad Students
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Saint Louis University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
