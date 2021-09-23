@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: sluiopsych@gmail.com
+email: ''
 phone: +1 (314) 977 2300
 address:
   street: 1 North Grand
@@ -33,8 +33,7 @@ coordinates:
   latitude: '38.6359'
   longitude: '90.2342'
 directions: Morissey Hall, 2nd Floor
-office_hours:
-  - 'Monday-Friday 9:00am to 5:00pm'
+office_hours: ''
 appointment_url: ''
 contact_links:
 #  - icon: comments
