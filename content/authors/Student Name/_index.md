@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Grad Students
 
 # Organizations/Affiliations
 organizations:
