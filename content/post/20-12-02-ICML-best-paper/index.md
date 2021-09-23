@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: SLU IO Studetns with Best Paper Award at SIOP 2020
+date: 2021-12-02
 image:
   focal_point: "top"
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Congratulations to SLU IO Psychology students for for winning the Best Paper Award at the 2020 SIOP Conference!
 
 <!--more-->
 
