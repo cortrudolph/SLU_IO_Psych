@@ -14,7 +14,7 @@ organizations:
   url: "https://www.cortrudolph.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cort W. Rudolph is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University. He received a B.A. from DePaul University, and a M.A. and Ph.D. from Wayne State University. Cort’s research focuses on a variety of issues related to the aging workforce, including applications of lifespan development theories, wellbeing and work-longevity, and ageism/generationalism. He is a consulting editor for Work, Aging and Retirement and serves on the editorial review boards of the Journal of Managerial Psychology, the Journal of Occupational and Organizational Psychology, Consulting Psychology Journal: Practice and Research, the Journal of Vocational Behavior, and the Journal of Organizational Behavior.
+bio: Cort W. Rudolph is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
 
 interests:
 - Work & Aging
@@ -23,9 +23,15 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in IO Psychology: Wayne State University: 2011
-  - course: MA in IO Psychology: Wayne State University: 2010
-  - course: BA n IO Psychology: DePaul University: 2006
+  - course: PhD in IO Psychology
+    institution: Wayne State University
+    year: 2011
+  - course: MA in IO Psychology
+    institution: Wayne State University
+    year: 2010
+  - course: BA in IO Psychology
+    institution: DePaul Univeristy
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,5 +69,3 @@ user_groups:
 ---
 
 Cort W. Rudolph is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University. He received a B.A. from DePaul University, and a M.A. and Ph.D. from Wayne State University. Cort’s research focuses on a variety of issues related to the aging workforce, including applications of lifespan development theories, wellbeing and work-longevity, and ageism/generationalism. He is a consulting editor for Work, Aging and Retirement and serves on the editorial review boards of the Journal of Managerial Psychology, the Journal of Occupational and Organizational Psychology, Consulting Psychology Journal: Practice and Research, the Journal of Vocational Behavior, and the Journal of Organizational Behavior.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
