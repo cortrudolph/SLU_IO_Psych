@@ -1,11 +1,11 @@
 ---
-title: SLU IO Students with Best Paper Award at SIOP 2020
+title: SLU IO Students Win Best Paper Award at SIOP 2020
 date: 2020-12-02
 image:
   focal_point: "top"
 ---
 
-Congratulations to SLU IO Psychology students for for winning the Best Paper Award at the 2020 SIOP Conference!
+Congratulations to SLU IO Psychology students for winning the Best Paper Award at the 2020 SIOP Conference!
 
 <!--more-->
 

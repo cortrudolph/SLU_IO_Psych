@@ -1,8 +1,8 @@
 ---
-title: SLU IO News
+title: SLU IO Psychology News
 ---
 
-Congratulations to someone for something!
+Congratulations to someone for something that they did!
 
 <!--more-->
 
