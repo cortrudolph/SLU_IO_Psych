@@ -20,4 +20,4 @@ design:
 
 <br>
 
-A center of excellence for the study of behavior at work since 1818.
+A center of excellence in the study of behavior at work since 1818.
