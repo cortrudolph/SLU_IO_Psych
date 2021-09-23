@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Saint Louis University IO Psychology Ph.D. program** has been a center of excellence for the study of behavior at work since its founding in 1818.
+A center of excellence for the study of behavior at work since 1818.
