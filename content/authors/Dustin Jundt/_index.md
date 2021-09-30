@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'dustin.jundt@health.slu.edu'
+  link: mailto:dustin.jundt@health.slu.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/cortrudolph

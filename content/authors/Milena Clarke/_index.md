@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'milena.clarke@slu.edu'
+  link: mailto:milena.clarke@slu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MilenaClarke1

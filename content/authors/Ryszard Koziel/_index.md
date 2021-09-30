@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'ryszard.koziel@slu.edu'
+  link: mailto:ryszard.koziel@slu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RyszardKoziel

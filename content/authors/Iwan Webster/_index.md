@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'iwan.webster@slu.edu'
+  link: mailto:iwan.webster@slu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/IwanWebster

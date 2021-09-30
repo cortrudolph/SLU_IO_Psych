@@ -30,7 +30,7 @@ education:
     institution: Wayne State University
     year: 2010
   - course: BA in IO Psychology
-    institution: DePaul Univeristy
+    institution: DePaul University
     year: 2006
 
 # Social/Academic Networking
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'cort.rudolph@health.slu.edu'
+  link: mailto:cort.rudolph@health.slu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cortrudolph

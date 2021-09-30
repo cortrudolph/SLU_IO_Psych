@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'richard.harvey@health.slu.edu'
+  link: mailto:richard.harvey@health.slu.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/cortrudolph

@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'jack.friedrich@slu.edu'
+  link: mailto:jack.friedrich@slu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jackf_IO
