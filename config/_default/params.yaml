@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
+theme: ocean
+day_night: true
 font: native
 font_size: L
 

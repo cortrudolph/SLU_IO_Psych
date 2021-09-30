@@ -10,7 +10,7 @@ role: Associate Professor of IO Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Saint Louis University
+- name: Personal Website
   url: "https://www.cortrudolph.com"
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,4 +68,4 @@ user_groups:
 - Faculty
 ---
 
-Cort W. Rudolph is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University. He received a B.A. from DePaul University, and a M.A. and Ph.D. from Wayne State University. Cort’s research focuses on a variety of issues related to the aging workforce, including applications of lifespan development theories, wellbeing and work-longevity, and ageism/generationalism. He is a consulting editor for Work, Aging and Retirement and serves on the editorial review boards of the Journal of Managerial Psychology, the Journal of Occupational and Organizational Psychology, Consulting Psychology Journal: Practice and Research, the Journal of Vocational Behavior, and the Journal of Organizational Behavior.
+Cort W. Rudolph is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University. He received a B.A. from DePaul University, and a M.A. and Ph.D. from Wayne State University. Cort’s research focuses on a variety of issues related to the aging workforce, including applications of lifespan development theories, wellbeing and work-longevity, and ageism/generationalism. He is a consulting editor for Work, Aging and Retirement and serves on the editorial review boards of the Journal of Managerial Psychology, the Journal of Occupational and Organizational Psychology, Consulting Psychology Journal: Practice and Research, the Journal of Vocational Behavior, the Journal of Organizational Behavior, and Leadership Quarterly.

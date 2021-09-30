@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 title: |
   Saint Louis University 
   IO Psychology
-hero_media: welcome.jpg
+hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-A center of excellence in the study of behavior at work since 1818.
+A center of excellence in the study of behavior at work.

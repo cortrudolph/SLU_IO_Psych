@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: New & Notable Publications
 view: 4
 
 header:
