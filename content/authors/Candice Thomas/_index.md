@@ -17,21 +17,22 @@ organizations:
 bio: Candice Thomas is an Assistant Professor of Industrial & Organizational Psychology at Saint Louis University. 
 
 interests:
-- Work-life Balance
-- Occupational Health & Safety
-- Healthcare Management
+- Work-life interface 
+- Work-family policies & benefits  
+- Occupational health and safety 
+- Healthcare management
 
 education:
   courses:
-  - course: PhD in Psychology
+  - course: PhD in IO Psychology
     institution: University of Houston
-    year: 2000
+    year: 2017
   - course: MA in Psychology
     institution: Northern Arizona University
-    year: 2000
-  - course: BS in Psychology
+    year: 2012
+  - course: BA in Psychology & Biology
     institution: Northern Arizona University
-    year: 2000
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,12 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:candice.thomas@health.slu.edu
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/cortrudolph
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=Z9W6egsAAAAJ&hl=en&oi=ao
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CLThomas_IO
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=nyZihOMAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/cortrudolph
@@ -61,7 +62,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,4 +70,4 @@ user_groups:
 - Faculty
 ---
 
-Candice Thomas is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University. Her research interests include work-life balance, the health and workplace implication of the return to work process after childbirth, occupational health and safety, and healthcare management.
+Candice L. Thomas is an Assistant Professor in the Department of Psychology at Saint Louis University. She received her Ph.D. from the University of Houston. Her research focuses on Occupational Health Psychology and the health impacts of the intersection between work and life roles. Specifically, she is interested in understanding how the workplace influences maternal health behaviors, such as breastfeeding, and how family-related experiences with work can shape employees’ cognitive and affective experiences of both parenthood and the workplace.  
