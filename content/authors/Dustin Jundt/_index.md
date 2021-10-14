@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dustin Jundt Ph.D.
+title: Dustin K. Jundt Ph.D.
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,27 +11,22 @@ role: Associate Professor of IO Psychology
 # Organizations/Affiliations
 organizations:
 - name: Saint Louis University
-  url: "https://www.slu.edu"
+  url: "https://www.slu.edu/arts-and-sciences/psychology/faculty/jundt-dustin.php"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dustin Jundt is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
 
 interests:
-- Research
-- Research
-- Research
+- Self-regulatory dynamics during goal pursuit
+- Individual and team adaptive performance
+- Motivational predictors of discretionary workplace behaviors
+- Team effectiveness
 
 education:
   courses:
-  - course: PhD in Psychology
-    institution: XXX University
-    year: 2000
-  - course: MA in Psychology
-    institution: XX University
-    year: 2000
-  - course: BA in Psychology
-    institution: XX University
-    year: 2000
+  - course: PhD in IO Psychology
+    institution: Michigan State University
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +64,4 @@ user_groups:
 - Faculty
 ---
 
-Dustin Jundt is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
+Dustin K. Jundt is an associate professor of Industrial-Organizational Psychology at Saint Louis University.   He earned his Ph.D. in Industrial-Organizational Psychology from Michigan State University in 2009.  His research interests include individual and team adaptive performance, self-regulation, motivational predictors of discretionary workplace behaviors, and team effectiveness.  His work has been published in a number of peer-reviewed journals including Academy of Management Journal, Annual Review of Psychology, Journal of Management, Journal of Organizational Behavior, and Organizational Behavior and Human Decision Processes.  He currently lives in Saint Louis, MO with his wife May and their three cats.
