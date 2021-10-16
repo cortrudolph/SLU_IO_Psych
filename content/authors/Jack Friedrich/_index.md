@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- 2021 Graduate Students
 ---
 
 Jack Friedrich is a Ph.D. student in the IO Psychology program at Saint Louis University. His research interests include work-life balance, psychometrics, and studying workplace stressors specific to scientists such as pressure to publish.

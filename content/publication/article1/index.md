@@ -1,7 +1,7 @@
 ---
 title: "A systematic and critical review of research on respect in leadership"
 authors:
-- admin
+- Cort W. Rudolph
 - Ian Katz
 - Regina Ruppel
 - Hannes Zacher

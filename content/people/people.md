@@ -17,11 +17,12 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Faculty
-  - Principal Investigators
-  - Researchers
-  - Graduate Students
-  - Administration
-  - Visitors
+  - 2021 Graduate Students
+  - 2020 Graduate Students
+  - 2019 Graduate Students
+  - 2018 Graduate Students
+  - Pre-2018 Graduate Students
+
   - Alumni
 design:
   show_interests: false

@@ -16,22 +16,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Richard Harvey is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
 
-interests:
-- Research
-- Research
-- Research
+#interests:
+#- Research
+#- Research
+#- Research
 
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: XXX University
-    year: 2000
-  - course: MA in Psychology
-    institution: XX University
-    year: 2000
-  - course: BA in Psychology
-    institution: XX University
-    year: 2000
+#education:
+#  courses:
+#  - course: PhD in Psychology
+#    institution: XXX University
+#    year: 2000
+#  - course: MA in Psychology
+#    institution: XX University
+#    year: 2000
+#  - course: BA in Psychology
+#    institution: XX University
+#    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

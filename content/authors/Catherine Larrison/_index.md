@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Iwan Webster
+title: Catherine Larrison
 # Username (this should match the folder name)
 
 authors:
-- Iwan Webster
+- Catherine Larrison
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,20 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Iwan Webster is a Ph.D. student in the IO Psychology program at Saint Louis University. His research interests include leadership, group dynamics, and teams and how these influence organizational effectiveness.
+bio: Catherine Larrison is a Ph.D. student in the IO Psychology program at Saint Louis University. 
 
-interests:
-- Leadership
-- Group Dynamics
-- Teams
-- Organizational Effectiveness
+#interests:
+#- Research
+#- Research
+#- Research
 
 education:
   courses:
-
-  - course: BA in Psychology
-    institution: Maryville University
-    year: 2021
+  - course: BS in Psychology
+    institution: Loyola University Chicago
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:iwan.webster@slu.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/IwanWebster
+  link: catherine.larrison@slu.edu
+#- icon: twitter
+#  icon_pack: fab
+#  link: ""
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/iwanwebster1
+#  link: ""
+#- icon: github
+#  icon_pack: fab
+#  link: ""
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 2021 Graduate Students
+- 2020 Graduate Students
 ---
 
-Iwan Webster is a Ph.D. student in the IO Psychology program at Saint Louis University. His research interests include leadership, group dynamics, and teams and how these influence organizational effectiveness.
+Catherine Larrison is a Ph.D. student in the IO Psychology program at Saint Louis University. 

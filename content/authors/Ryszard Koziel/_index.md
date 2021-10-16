@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- 2021 Graduate Students
 ---
 
 Ryszard Koziel is a Ph.D. student in the IO Psychology program at Saint Louis University. His research interests include workplace substance use, work-life balance, and equity and inclusion issues in employment.
