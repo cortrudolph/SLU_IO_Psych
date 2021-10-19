@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Candice Thomas Ph.D.
+title: Candice L. Thomas
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ organizations:
   url: "https://wellab.weebly.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Candice Thomas is an Assistant Professor of Industrial & Organizational Psychology at Saint Louis University. 
+bio: Candice L. Thomas is an Assistant Professor of Industrial & Organizational Psychology at Saint Louis University. 
 
 interests:
 - Work-life interface 

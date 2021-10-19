@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dustin K. Jundt Ph.D.
+title: Dustin K. Jundt
 
 # Is this the primary user of the site?
 superuser: false

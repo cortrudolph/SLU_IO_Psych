@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Richard Harvey Ph.D.
+title: Richard D. Harvey
 
 # Is this the primary user of the site?
 superuser: false

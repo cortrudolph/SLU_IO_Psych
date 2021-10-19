@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Edward Sabin Ph.D.
+title: Edward Sabin
 
 # Is this the primary user of the site?
 superuser: false
