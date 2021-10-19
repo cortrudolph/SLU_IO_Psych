@@ -65,4 +65,4 @@ user_groups:
 - 2021 Graduate Students
 ---
 
-Iwan Webster is a Ph.D. student in the IO Psychology program at Saint Louis University. His research interests include leadership, group dynamics, and teams and how these influence organizational effectiveness.
+Iwan Webster is a native of Liverpool, England. He graduated from Maryville University in May 2021 with a BA concentrating in IO psychology. As an undergraduate, Iwan was a research assistant in an IO psychology lab that investigated factors that affect hiring decisions. Additionally, Iwan completed his senior project on the relationship between personality and leadership effectiveness. These experiences helped develop his desire to grow a deeper understanding of IO psychology. His research interests include topics related to leadership, mentoring, group dynamics, relationships within teams, and how these influence organizational effectiveness. Iwan aims to pursue a career in the applied setting as an external consultant. Outside of IO psychology, Iwan is part of SLU’s men’s soccer program and enjoys spending time with his fiancée, friends and church community.

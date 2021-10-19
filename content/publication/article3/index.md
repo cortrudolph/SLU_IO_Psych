@@ -18,8 +18,8 @@ publishDate: "2021-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Human Resources Management Review*
-publication_short: In *HRMR*
+publication: In *Journal of Organizational Behavior*
+publication_short: In *JOB*
 
 abstract: Work–family research has blossomed over the past several decades but mostly remains focused on traditional couples and heteronormative individuals. However, research suggests that LGBTQ+ employees face unique challenges, such as discrimination and stigma, that impact their work–family interface in ways that current work–family research may not be fully capturing. We propose a review and synthesis that summarize current LGBTQ+ and work–family literature with four primary goals (1) identify predictors and outcomes of the work–family interface for LGBTQ+ employees, (2) integrate empirical findings and current theory into a recently developed framework to delineate our understanding of LGBTQ+ work–family experiences, (3) provide direction for future research, and (4) provide recommendations on translating the current findings into practice. Our results identify k = 74 studies that cover the work–family interface and LGBTQ+ individuals. This comprehensive and integrated review will help inform researchers on how to best address unique research questions for LGBTQ+ employees and provide employers with empirical evidence as they develop inclusive policies, cultures, and workforces.
 
