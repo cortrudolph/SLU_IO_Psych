@@ -41,6 +41,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ryszard.koziel@slu.edu
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ryszard-koziel-82b1b0170/
+
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RyszardKoziel

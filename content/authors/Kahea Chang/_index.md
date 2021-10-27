@@ -18,37 +18,44 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kahea Chang Name is a Ph.D. student in the IO Psychology program at Saint Louis University.
+bio: Kahea graduated from Brigham Young University in 2018 with a BS in Psychology. While at SLU, Kahea was involved in academic research and applied internships. His research focused on error reporting antecedents, specifically attitudes. Additionally, he had the opportunity to intern in Talent Acquisition/Development at Spire and the Organizational Development and Effectiveness team at Centene Corporation. Kahea is pursuing an applied career, working internally at Centene Corporation.
 
-#interests:
-#- Research
-#- Research
-#- Research
+interests:
+- Organizational Development
+- Error Reporting
+- Competency Modeling
 
-#education:
-#  courses:
-#  - course: ""
-#    institution: ""
-#    year: ""
+education:
+  courses:
+
+
+  - course: MS in IO Psychology
+    institution: Saint Louis University
+    year: 2021
+  - course: BS in Psychology
+    institution: Brigham Young University
+    year: 2018    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
 social:
 - icon: envelope
   icon_pack: fas
-  link: kahea.chang@slu.edu
+  link: mailto:kahea.chang@slu.edu
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kahea-chang-07a8ba168/   
 #- icon: twitter
 #  icon_pack: fab
-#  link: ""
+#  link: https://twitter.com/jackf_IO
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: ""
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
 #  icon_pack: fab
-#  link: ""
+#  link: https://github.com/geniusjackjack
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +71,4 @@ user_groups:
 - 2018 Graduate Students
 ---
 
-Kahea Chang is a Ph.D. student in the IO Psychology program at Saint Louis University.
+Kahea graduated from Brigham Young University in 2018 with a BS in Psychology. While at SLU, Kahea was involved in academic research and applied internships. His research focused on error reporting antecedents, specifically attitudes. Additionally, he had the opportunity to intern in Talent Acquisition/Development at Spire and the Organizational Development and Effectiveness team at Centene Corporation. Kahea is pursuing an applied career, working internally at Centene Corporation.

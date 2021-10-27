@@ -2,9 +2,9 @@
 title: "A review of the LGBTQ+ work–family interface: What do we know and where do we go from here?"
 authors:
 - Lauren Murphy
-- Candice Thomas
+- Candice L. Thomas
 - Haley Cobb
-- Alexius Hartman
+- Lexi Strasburg
 date: "2021-10-01T00:00:00Z"
 doi: "https://doi.org/10.1002/job.2492"
 
@@ -28,6 +28,7 @@ summary: Work–family research has blossomed over the past several decades but 
 tags:
 - Work-family interface
 - LGBTQ+ employees
+- Diversity, Equity, Inclusion
 
 featured: true
 

@@ -42,7 +42,7 @@ social:
   icon_pack: fas
   link: madeline.billeaud@slu.edu
 
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/madeline-billeaud-296295151/
 

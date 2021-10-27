@@ -1,7 +1,7 @@
 ---
 title: "Employee lactation: A review and recommendations for research, practice, and policy"
 authors:
-- Candice Thomas
+- Candice L. Thomas
 - Lauren Murphy
 - Maura Mills
 - Jing Zhang
@@ -34,6 +34,7 @@ tags:
 - Pumping
 - Milk Expression
 - Workplace Accomodations
+- Diversity, Equity, Inclusion
 
 featured: true
 

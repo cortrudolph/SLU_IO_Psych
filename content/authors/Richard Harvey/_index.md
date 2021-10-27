@@ -26,7 +26,7 @@ education:
   - course: PhD in IO & Social Psychology
     institution: University of Kansas
     year: 1995
-  - course: MA IO & Social Psychology
+  - course: MA in IO & Social Psychology
     institution: University of Kansas
     year: 1992
   - course: BA in Psychology

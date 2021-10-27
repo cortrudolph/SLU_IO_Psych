@@ -18,18 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catherine Larrison is a Ph.D. student in the IO Psychology program at Saint Louis University. 
+bio: Catie Larrison is a graduate student in the Industrial-Organizational Psychology Doctoral Program at Saint Louis University. She earned her BS in psychology from Loyola University Chicago in May of 2019. During her time at Loyola, Catie worked as a research assistant in a social psychology research lab, served as president of Loyola’s Tau Sigma chapter (a transfer honors society), and conducted her Senior Honors research project, with the support of a fellowship, examining phenomena associated with individual and group decision making. Her research interests include motivation, individual and team processes, adaptive performance, decision-making, and counterproductive work behaviors. 
 
-#interests:
-#- Research
-#- Research
-#- Research
+interests:
+- Adaptive Performance
+- Individual and Team Processes
+- Decision Making
+- Counterproductive Work Behaviors (CWBs)
 
 education:
   courses:
-  - course: BS in Psychology
-    institution: Loyola University Chicago
-    year: 2020
+
+
+  - course: BS in Psychology, Summa Cum Laude
+    institution: Loyola University Chicago 
+    year: 2021
+  - course: AS in Psychology
+    institution: McHenry County College 
+    year: 2017
+   
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: catherine.larrison@slu.edu
+  link: mailto:catherine.larrison@slu.edu
 #- icon: twitter
 #  icon_pack: fab
-#  link: ""
+#  link: https://twitter.com/jackf_IO
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: ""
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
 #  icon_pack: fab
-#  link: ""
+#  link: https://github.com/geniusjackjack
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +70,4 @@ user_groups:
 - 2020 Graduate Students
 ---
 
-Catherine Larrison is a Ph.D. student in the IO Psychology program at Saint Louis University. 
+Catie Larrison is a graduate student in the Industrial-Organizational Psychology Doctoral Program at Saint Louis University. She earned her BS in psychology from Loyola University Chicago in May of 2019. During her time at Loyola, Catie worked as a research assistant in a social psychology research lab, served as president of Loyola’s Tau Sigma chapter (a transfer honors society), and conducted her Senior Honors research project, with the support of a fellowship, examining phenomena associated with individual and group decision making. Her research interests include motivation, individual and team processes, adaptive performance, decision-making, and counterproductive work behaviors. 

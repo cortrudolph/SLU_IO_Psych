@@ -24,7 +24,7 @@ interests:
 - Work-life balance
 - Psychometrics
 - Work stress
-- Open Sceince
+- Open Science
 - Meta-Science
 
 education:
