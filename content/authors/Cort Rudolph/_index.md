@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cort W. Rudolph
+title: Cort Rudolph
 
 # Is this the primary user of the site?
 superuser: true

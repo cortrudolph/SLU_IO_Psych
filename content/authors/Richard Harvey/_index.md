@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Richard D. Harvey
+title: Richard Harvey
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ organizations:
   url: "https://sites.google.com/a/slu.edu/harvey-collective-identity-lab/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Richard Harvey is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
+bio: Richard D. Harvey is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
 
 interests:
 - Organizational & Team Identity

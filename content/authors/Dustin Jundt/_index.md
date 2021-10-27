@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dustin K. Jundt
+title: Dustin Jundt
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.slu.edu/arts-and-sciences/psychology/faculty/jundt-dustin.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dustin Jundt is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
+bio: Dustin K. Jundt is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
 
 interests:
 - Self-regulatory dynamics during goal pursuit

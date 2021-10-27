@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Candice L. Thomas
+title: Candice Thomas
 
 # Is this the primary user of the site?
 superuser: false
