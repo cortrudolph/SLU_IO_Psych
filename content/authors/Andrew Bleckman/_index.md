@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: andrew.bleckman@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrew-bleckman/
+
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""
@@ -61,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Recent Alumni
 ---
 
-Andrew Bleckman earned his Ph.D. from the IO Psychology program at Saint Louis University in 2022.
+Andrew Bleckman earned his Ph.D. from the IO Psychology program at Saint Louis University in 2022. He is employed as a Human Resources Specialist for the City of Saint Louis, Missouri.

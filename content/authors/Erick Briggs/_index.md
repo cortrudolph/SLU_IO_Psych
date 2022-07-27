@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: erick.briggs@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/erickpbriggs/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""

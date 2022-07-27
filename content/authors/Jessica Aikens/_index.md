@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: jessica.aikens@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jessica-aikens-487500134/
+
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""

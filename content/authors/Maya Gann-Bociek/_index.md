@@ -40,6 +40,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: maya.gannbociek@slu.edu
+  
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mayagannbociek/
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""

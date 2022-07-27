@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: sarah.palmer@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sarah-palmer-48673a98/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""

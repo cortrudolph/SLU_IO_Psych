@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: andrea.cornelius@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrea-cornelius-ma-3b7a0855/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""

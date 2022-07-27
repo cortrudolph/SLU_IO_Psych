@@ -24,7 +24,7 @@ content:
   - 2019 Graduate Students
   - 2018 Graduate Students
   - Pre-2018 Graduate Students
-  - Alumni
+  - Recent Alumni
   
 design:
   show_interests: false

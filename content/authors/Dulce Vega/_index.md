@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: dulce.vega@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dulcevega/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""

@@ -16,16 +16,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Edward Sabin Ph.D. is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University.
 
-#interests:
-##- Research
-#- Research
-#- Research
+interests:
+- Safety Culture & Climate
+- Organizational Learning
+- Ethics & Professional Practice
 
-#education:
-#  courses:
-#  - course: PhD in Psychology
-#    institution: XXX University
-#    year: 2000
+education:
+  courses:
+  - course: PhD in Psychology
+    institution: Saint Louis University
+    #year: 2000
+    
 #  - course: MA in Psychology
 #    institution: XX University
 #    year: 2000
@@ -41,6 +42,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:edward.sabin@health.slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ed-sabin-8022498/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/cortrudolph

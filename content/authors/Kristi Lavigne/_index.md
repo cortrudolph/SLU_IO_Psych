@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: kristi.lavigne@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kristi-lavigne-18a0b091/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""
