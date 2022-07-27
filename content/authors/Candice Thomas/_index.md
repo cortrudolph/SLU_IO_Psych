@@ -70,4 +70,4 @@ user_groups:
 - Faculty
 ---
 
-Candice L. Thomas is an Assistant Professor in the Department of Psychology at Saint Louis University. She received her Ph.D. from the University of Houston. Her research focuses on Occupational Health Psychology and the health impacts of the intersection between work and life roles. Specifically, she is interested in understanding how the workplace influences maternal health behaviors, such as breastfeeding, and how family-related experiences with work can shape employees’ cognitive and affective experiences of both parenthood and the workplace.  
+Candice L. Thomas is an Associate Professor in the Department of Psychology at Saint Louis University. She received her Ph.D. from the University of Houston. Her research focuses on Occupational Health Psychology and the health impacts of the intersection between work and life roles. Specifically, she is interested in understanding how the workplace influences maternal health behaviors, such as breastfeeding, and how family-related experiences with work can shape employees’ cognitive and affective experiences of both parenthood and the workplace.  
