@@ -1,7 +1,7 @@
 ---
-title: 2022 Fall Professional Activities Group (PAG) Lecture Series
+title: 2022 Professional Activities Group Lecture Series
 
-event: 2022 Fall Professional Activities Group (PAG) Lecture Series
+event: 2022 Professional Activities Group (PAG) Lecture Series
 #event_url: https://example.org
 
 location: Virtual (via Zoom)
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: United States
 
-summary: 2022 Fall Professional Activities Group (PAG) Lecture Series
+summary: 2022 Professional Activities Group (PAG) Lecture Series
 abstract: "A series of six lectures on topics related to the science and practice of IO psychology. More details to be announced soon!"
 
 # Talk start and end times.

@@ -9,4 +9,4 @@ Congratulations to Candice Thomas
 
 <!--more-->
 
-Congratulations to [Candice Thomas](/author/candice-thomas/) for earning promotion to asssociate professor with tenure!
+Congratulations to [Candice Thomas](/author/candice-thomas/) for earning promotion to associate professor with tenure!

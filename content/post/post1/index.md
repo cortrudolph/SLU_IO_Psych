@@ -9,4 +9,4 @@ Welcome to Our New Website
 
 <!--more-->
 
-Welcome to the new website of the Saint Louis University IO Psychology Program! This is a "work in progress," so check back often for new content. You can also subscribe to our newsletter for updates: https://sluiopsychology.substack.com
+Welcome to the new website of the Saint Louis University IO Psychology Program! This website in under construction, and is definitely a "work in progress," so check back often for new content. You can also subscribe to our newsletter for updates: https://sluiopsychology.substack.com
