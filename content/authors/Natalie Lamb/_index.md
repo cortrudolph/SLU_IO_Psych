@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: natalie.lamb@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/natalie-lamb15/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""

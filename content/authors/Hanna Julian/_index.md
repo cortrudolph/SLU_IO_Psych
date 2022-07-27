@@ -40,6 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: hannah.julian@slu.edu
+
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hannah-julian-0a480b10b/
+
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""
