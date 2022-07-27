@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-30T00:00:00Z"
 
-authors: [Cort Rudolph]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
