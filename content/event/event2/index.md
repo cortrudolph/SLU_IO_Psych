@@ -4,7 +4,7 @@ title: 2022 Fall Professional Activities Group (PAG) Lecture Series
 event: 2022 Fall Professional Activities Group (PAG) Lecture Series
 #event_url: https://example.org
 
-location: Virual (via Zoom)
+location: Virtual (via Zoom)
 address:
   street: 
   city: St. Louis
