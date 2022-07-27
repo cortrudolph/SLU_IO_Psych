@@ -65,7 +65,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- Program Director
 ---
 
-Cort W. Rudolph is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University. He received a B.A. from DePaul University, and a M.A. and Ph.D. from Wayne State University. Cort’s research focuses on a variety of issues related to the aging workforce, including applications of lifespan development theories, wellbeing and work-longevity, and ageism/generationalism. He is a consulting editor for Work, Aging and Retirement and serves on the editorial review boards of the Journal of Managerial Psychology, the Journal of Occupational and Organizational Psychology, Consulting Psychology Journal: Practice and Research, the Journal of Vocational Behavior, the Journal of Organizational Behavior, and Leadership Quarterly.
+Cort W. Rudolph is an Associate Professor of Industrial & Organizational Psychology at Saint Louis University, where he also serves as the Interim Director of the Industrial & Organizational Psychology Ph.D. Program and the Interim Director of the Center for the Application of Behavioral Sciences (CABS). Cort also serves as the Chair of the Education and Training Committee for the Society for Industrial and Organizational Psychology (SIOP, APA Division 14).
+
+Cort received a B.A. from DePaul University, and a M.A. and Ph.D. from Wayne State University. His research focuses on a variety of issues related to the aging workforce, including applications of lifespan development theories, wellbeing and work-longevity, and ageism/generationalism. 
+
+He is a consulting editor for *Work, Aging and Retirement* and an associate editor for *Group and Organization Management* and serves on the editorial review boards of the *Journal of Managerial Psychology*, the *Journal of Occupational and Organizational Psychology*, *Consulting Psychology Journal: Practice and Research*, the *Journal of Vocational Behavior*, the *Journal of Organizational Behavior*, and *Leadership Quarterly*. 
+
+Cort is an elected fellow of the Society for Industrial and Organizatioanl Psychology.

@@ -1,10 +1,10 @@
 ---
-title: 2021 Ritchey Lecture
+title: 2022 Fall Professional Activities Group (PAG) Lecture Series
 
-event: 2021 Ritchey Lecture
+event: 2022 Fall Professional Activities Group (PAG) Lecture Series
 #event_url: https://example.org
 
-location: SLU Anheuser Busch Auditorium
+location: Virual (via Zoom)
 address:
   street: 
   city: St. Louis
@@ -12,23 +12,23 @@ address:
   postcode: 
   country: United States
 
-summary: 2021 Ritchey Lecture
-abstract: "Dr. Alan Lambert of Washington University will present the talk: Threat and its Capacity to Influence Political Preferences via Emotion"
+summary: 2022 Fall Professional Activities Group (PAG) Lecture Series
+abstract: "A series of six lectures on topics related to the science and practice of IO psychology. More details to be announced soon!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-11-01T19:00:00Z"
-#date_end: "2021-11-01T21:00:00Z"
+date: "2022-09-01"
+date_end: "2022-11-30"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-09-30T00:00:00Z"
+publishDate: "2022-07-25"
 
 authors: [Cort Rudolph]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
