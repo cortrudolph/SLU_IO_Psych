@@ -5,7 +5,7 @@ image:
   focal_point: "top"
 ---
 
-Welcome to Our New Website!
+Welcome to Our New Website
 
 <!--more-->
 

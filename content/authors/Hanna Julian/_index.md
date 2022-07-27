@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hannah Jullian
+title: Hannah Julian
 # Username (this should match the folder name)
 
 authors:
-- Hannah Jullian
+- Hannah Julian
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hannah Jullian is a Ph.D. student in the IO Psychology program at Saint Louis University.
+bio: Hannah Julian is a Ph.D. student in the IO Psychology program at Saint Louis University.
 
 #interests:
 #- Research
@@ -64,4 +64,4 @@ user_groups:
 - 2022 Graduate Students
 ---
 
-Hannah Jullian is a Ph.D. student in the IO Psychology program at Saint Louis University.
+Hannah Julian is a Ph.D. student in the IO Psychology program at Saint Louis University.
