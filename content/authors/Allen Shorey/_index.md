@@ -18,18 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Allen Shorey is a Ph.D. student in the IO Psychology program at Saint Louis University.
+bio: Allen Shorey is a Ph.D. student in the IO Psychology program at Saint Louis University. He graduated in 2022 from Florida Southern College with a BS in Psychology and a BS in Business Administration. At Florida Southern College, he served as the Student Government Association President and was an Honors student. Allen is focusing on an applied career as he explores leadership, teamwork, and group dynamics.
 
-#interests:
-#- Research
-#- Research
-#- Research
+interests:
+- Leadership 
+- Teamwork
+- Group Dynamics
 
-#education:
-#  courses:
-#  - course: ""
-#    institution: ""
-#    year: ""
+education:
+  courses:
+  - course: BS in Psychology
+    institution: Florida Southern College
+    year: 2022
+  - course: BS in Business Administration
+    institution: Florida Southern College
+    year: 2022    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +72,4 @@ user_groups:
 - 2022 Graduate Students
 ---
 
-Allen Shorey is a Ph.D. student in the IO Psychology program at Saint Louis University.
+Allen Shorey is a Ph.D. student in the IO Psychology program at Saint Louis University. He graduated in 2022 from Florida Southern College with a BS in Psychology and a BS in Business Administration. At Florida Southern College, he served as the Student Government Association President and was an Honors student. Allen is focusing on an applied career as he explores leadership, teamwork, and group dynamics.

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Julie Klein
+title: Julie Schaefer
 # Username (this should match the folder name)
 
 authors:
-- Julie Klein
+- Julie Schaefer
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Julie Klein is a Ph.D. student in the IO Psychology program at Saint Louis University.
+bio: Julie Schaefer is a Ph.D. student in the IO Psychology program at Saint Louis University.
 
 #interests:
 #- Research
@@ -40,6 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: julie.klein@slu.edu
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/julie-schaefer1205/
 #- icon: twitter
 #  icon_pack: fab
 #  link: ""
