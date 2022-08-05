@@ -59,7 +59,7 @@ projects:
 
 **_Note._** All talks are on Fridays from 3pm to 4pm (central time).
 
-|   | Date        |   | <div style="width:200px">Speaker</div> | <div style="width:700px">Topic</div> |
+|   | Date        |   | <div style="width:200px">Speaker</div> | <div style="width:1000px">Topic</div> |
 |---|:------------|---|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------|
 |   | 09/09/2022  |   | IO Faculty                   | Faculty Roundtable (10-minute "lightning talks" about faculty research, service, teaching, application, advocacy, etc.)  |
 |   | 09/23/2022  |   | 1st Year Students            | 1st Year Roundtable (10-minute "lightning talks" about research interested, career goals, hobbies, etc.)                 |
