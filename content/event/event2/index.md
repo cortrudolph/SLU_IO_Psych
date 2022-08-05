@@ -57,11 +57,13 @@ projects:
 
 # Schedule:
 
-|   | Date                  | Time    | Speaker                             | Topic                                                                                                                   |
-|---|-----------------------|---------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| 1 |  Friday, September 9  | 3 - 4pm | IO Faculty                          | Faculty Roundtable (10-minute "lightning talks" about faculty research, service, teaching, application, advocacy, etc.) |
-| 2 | Friday, September 23  | 3 - 4pm | 1st Year PhD Student Cohort         | 1st Year Roundtable (10-minute "lightning talks" about research interested, career goals, hobbies, etc.)                |
-| 3 |    Friday, October 7  | 3 - 4pm | Haley Cobb                          | Job Talk: "Boundaries, Gender, and Meta-Science: Building a Better Work-Nonwork Interface for All"                      |
-| 4 |   Friday, October 21  | 3 - 4pm | 2nd Year PhD Student Cohort         | 2nd Year Thesis Idea Roundtable (10-minute "lightning talks" about thesis ideas)                                        |
-| 5 |  Friday, November 4   | 3 - 4pm | Madeline Billeaud & Lexi Strasburg  | Internship Reports                                                                                                      |
-| 6 |  Friday, November 18  | 3 - 4pm | Lauren Murphy                       | DEI At Uber                                                                                                             |                                                                                    |
+*Note* All talks are on Fridays from 3pm to 4pm Central Time.
+
+|   | Date       |   | Speaker                     | Topic                                                                                                                   |
+|---|------------|---|-----------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|   |   9/9/2022 |   | IO Faculty                  | Faculty Roundtable (10-minute "lightning talks" about faculty research, service, teaching, application, advocacy, etc.) |
+|   |  9/23/2022 |   | 1st Year Students           | 1st Year Roundtable (10-minute "lightning talks" about research interested, career goals, hobbies, etc.)                |
+|   |  10/7/2022 |   | H. Cobb                     | Job Talk: "Boundaries, Gender, and Meta-Science: Building a Better Work-Nonwork Interface for All"                      |
+|   | 10/21/2022 |   | 2nd Year Students           | 2nd Year Thesis Idea Roundtable (10-minute "lightning talks" about thesis ideas)                                        |
+|   |  11/4/2022 |   | M. Billeaud & L. Strasburg  | Internship Reports                                                                                                      |
+|   | 11/18/2022 |   | Lauren Murphy               |                                                                                                                         |
