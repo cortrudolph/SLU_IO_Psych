@@ -65,5 +65,5 @@ projects:
 |   | 09/23/2022 |   | 1st Year Students          | 1st Year Roundtable (10-minute "lightning talks" about research interested, career goals, hobbies, etc.)                |
 |   | 10/07/2022 |   | H. Cobb                    | Job Talk: "Boundaries, Gender, and Meta-Science: Building a Better Work-Nonwork Interface for All"                      |
 |   | 10/21/2022 |   | 2nd Year Students          | 2nd Year Thesis Idea Roundtable (10-minute "lightning talks" about thesis ideas)                                        |
-|   | 11/04/2022 |   | M. Billeaud & L. Strasburg | Internship Reports                                                                                                      |
+|   | 11/04/2022 |   | M. Billeaud <br /> L. Strasburg | Internship Reports                                                                                                      |
 |   | 11/18/2022 |   | L. Murphy                  | DEI at Uber                                                                                                             |
