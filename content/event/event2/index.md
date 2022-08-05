@@ -57,8 +57,6 @@ projects:
 
 ## Schedule:
 
-**_Note._** All talks are on Fridays from 3pm to 4pm (central time).
-
 | Date        | <div style="width:200px">Speaker</div> | <div style="width:1000px">Topic</div>                                                                                    |
 |:------------|:---------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | 09/09/2022  | IO Faculty                             | Faculty Roundtable (10-minute "lightning talks" about faculty research, service, teaching, application, advocacy, etc.)  |
@@ -67,4 +65,5 @@ projects:
 | 10/21/2022  | 2nd Year Students                      | 2nd Year Thesis Idea Roundtable (10-minute "lightning talks" about thesis ideas)                                         |
 | 11/04/2022  | M. Billeaud & L. Strasburg             | Internship Reports                                                                                                       |
 | 11/18/2022  | L. Murphy                              | DEI at Uber                                                                                                              |
-  
+
+**_Note._** All talks are on Fridays from 3pm to 4pm (Central Time)
