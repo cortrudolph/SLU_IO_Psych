@@ -20,7 +20,7 @@ abstract: "A series of six lectures and discussions on topics related to science
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-09-01"
 date_end: "2022-11-30"
-all_day: false
+all_day: TRUE
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-07-25"
