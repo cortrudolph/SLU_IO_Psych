@@ -74,4 +74,4 @@ Cort received a B.A. from DePaul University, and a M.A. and Ph.D. from Wayne Sta
 
 He is a consulting editor for *Work, Aging and Retirement* and an associate editor for *Group and Organization Management* and serves on the editorial review boards of the *Journal of Managerial Psychology*, the *Journal of Occupational and Organizational Psychology*, *Consulting Psychology Journal: Practice and Research*, the *Journal of Vocational Behavior*, the *Journal of Organizational Behavior*, and *Leadership Quarterly*. 
 
-Cort is an elected fellow of the Society for Industrial and Organizatioanl Psychology.
+Cort is an elected fellow of the Society for Industrial and Organizational Psychology.
