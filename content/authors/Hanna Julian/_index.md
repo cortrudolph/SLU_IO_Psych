@@ -33,7 +33,7 @@ education:
   - course: BA in Psychology
     institution: University of Louisville
     year: 2018
-  - course: MAT in Teaching in Secondary English and ESOL
+  - course: MAT in Secondary English and ESOL
     institution: Relay Graduate School of Education 
     year: 2021    
 
