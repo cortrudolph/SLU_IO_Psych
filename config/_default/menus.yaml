@@ -13,6 +13,9 @@ main:
   - name: Events
     url: event
     weight: 40
+  - name: Resources
+    url: resources
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60
