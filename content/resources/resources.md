@@ -1,9 +1,7 @@
 ---
 title: Resources
-summary: Please click the "Resources" link above to see a collection of resources for the Saint Louis University IO Psychology Program.
+summary: Please click the "Resources" link above to see a collection of resources for the Saint Louis University IO Psychology Program. 
 date: "2022-08-12T00:00:00Z"
-
-
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -15,6 +13,7 @@ header:
   image: ""
 ---
 
-IO Student Handbook: {{% staticref "uploads/IO_Handbook_2022_2023.pdf" %}}Click here{{% /staticref %}}
+Please see below for a collection of resources for the Saint Louis University IO Psychology Program:
 
-SLU Graduate Education: [Click here](https://www.slu.edu/academics/graduate/index.php)
+- IO Student Handbook: {{% staticref "uploads/IO_Handbook_2022_2023.pdf" %}}Click here{{% /staticref %}}
+- SLU Graduate Education: [Click here](https://www.slu.edu/academics/graduate/index.php)
