@@ -60,7 +60,7 @@ projects:
 | Date        | <div style="width:200px">Speaker</div> | <div style="width:1000px">Topic</div>                                                                                    |
 |:------------|:---------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | 09/09/2022  | IO Faculty                             | Faculty Roundtable (10-minute "lightning talks" about faculty research, service, teaching, application, advocacy, etc.)  |
-| 09/23/2022  | 1st Year Students                      | 1st Year Roundtable (10-minute "lightning talks" about research interested, career goals, hobbies, etc.)                 |
+| 09/23/2022  | 1st Year Students                      | 1st Year Roundtable (10-minute "lightning talks" about research interests, career goals, hobbies, etc.)                 |
 | 10/07/2022  | H. Cobb                                | Job Talk: "Boundaries, Gender, and Meta-Science: Building a Better Work-Nonwork Interface for All"                       |
 | 10/21/2022  | 2nd Year Students                      | 2nd Year Thesis Idea Roundtable (10-minute "lightning talks" about thesis ideas)                                         |
 | 11/04/2022  | M. Billeaud & L. Strasburg             | Internship Reports                                                                                                       |
